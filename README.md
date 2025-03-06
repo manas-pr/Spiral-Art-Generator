@@ -1,4 +1,4 @@
-# 🌪️ Spiral Art Generator
+#🎨 Spiral Art Generator – Create Stunning Mathematical Spirals!   
 
 Generate stunning spirals using mathematical formulas! This Streamlit app allows you to interactively modify the number of points and turns, resulting in beautiful spiral patterns.
 ---
