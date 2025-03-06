@@ -13,9 +13,14 @@ Generate stunning spirals using mathematical formulas! This Streamlit app allows
    ```sh
    git clone https://github.com/yourusername/spiral-art-generator.git
    cd spiral-art-generator   
----   
+ 
 2. Install dependencies:   
    pip install -r requirements.txt   
----  
+
 3. Run the app:   
    streamlit run app.py   
+---
+🎭 Usage
+   - Adjust the Number of Points slider to control the density of the spiral.
+   - Modify the Number of Turns to create different spiral shapes.
+   - Watch as the spiral updates dynamically!
