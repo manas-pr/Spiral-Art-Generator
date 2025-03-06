@@ -13,7 +13,8 @@ Generate stunning spirals using mathematical formulas! This Streamlit app allows
    ```sh
    git clone https://github.com/yourusername/spiral-art-generator.git
    cd spiral-art-generator
-Install dependencies:
-pip install -r requirements.txt
-Run the app:
-streamlit run app.py
+Install dependencies:   
+pip install -r requirements.txt   
+   
+Run the app:   
+streamlit run app.py   
