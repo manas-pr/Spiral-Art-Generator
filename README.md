@@ -1,6 +1,19 @@
-# Welcome to Streamlit!
+# 🌪️ Spiral Art Generator
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
+Generate stunning spirals using mathematical formulas! This Streamlit app allows you to interactively modify the number of points and turns, resulting in beautiful spiral patterns.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+## 🚀 Features
+- 🎨 Interactive sliders to adjust points and turns.
+- 🖥️ Real-time visualization using Altair.
+- 🔢 Smooth mathematical rendering of spirals.
+- 💡 Great for math lovers, artists, and creative explorers!
+
+## 🔧 Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/spiral-art-generator.git
+   cd spiral-art-generator
+Install dependencies:
+pip install -r requirements.txt
+Run the app:
+streamlit run app.py
